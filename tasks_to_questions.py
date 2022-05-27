@@ -106,14 +106,14 @@ def generate_questions_from_list_of_actions(list_of_actions):
 def write_questions_to_file(root, path_to_splits, path_to_pickled_data, output_path, split):
 
     data = json.load(open(path_to_splits + '/oct21.json'))
-    output = {}
+    output = []
     split_data = data[split]
     for e in tqdm(split_data):
         r_idx = e['repeat_idx']
         task = e['task']
         path_to_json = root + f'/{task}/pp/ann_{r_idx}.json'
         list_of_actions = generate_list_of_actions(path_to_pickled_data, path_to_json)
-        output[task] = {'tasks': list_of_actions, 'questions': generate_questions_from_list_of_actions(list_of_actions)}
+        output.append({'task_id': task, 'repeat_idx': r_idx, 'tasks': list_of_actions, 'questions': generate_questions_from_list_of_actions(list_of_actions)})
     with open(output_path + f'/{split}_questions.json', 'w') as f:
          json.dump(output, f)
 
