@@ -1,4 +1,5 @@
 # instr2questions
+
 ## Подготовка среды
 1. Настроить conda environment: установить все зависимости, перечисленные в requirements.txt для [FILM](https://github.com/soyeonm/FILM/blob/public/requirements.txt) + библиотеку transformers.
 2. [Скачать обученные BERTы](https://drive.google.com/file/d/1KQSpEBPd51x7tpF0rE1PVGCliRhuNhue/view). Поместить модели в папку **models** в рабочей директории.
@@ -53,3 +54,5 @@
   ```
   --path_to_pickled_data - путь к файлу, полученному на предыдущем шаге \
   --split - часть датасета (tests_seen, tests_unseen, valid_seen и т.д.)
+  
+  Пример выходного файла: [tests_unseen_questions.json](tests_unseen_questions.json)
