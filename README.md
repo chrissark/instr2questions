@@ -1,5 +1,8 @@
 # instr2questions
 
+- [Подготовка среды](#подготовка-среды)
+- [Запуск](#запуск)
+
 ## Подготовка среды
 1. Настроить conda environment: установить все зависимости, перечисленные в [requirements.txt](https://github.com/soyeonm/FILM/blob/public/requirements.txt) для FILM + библиотеку transformers.
 2. [Скачать обученные BERTы](https://drive.google.com/file/d/1KQSpEBPd51x7tpF0rE1PVGCliRhuNhue/view). Поместить модели в папку **models** в рабочей директории.
@@ -45,6 +48,8 @@
   -m - папка с обученными моделями \
   -o - выходной pickled-файл \
   --no_appended - параметр нужен, чтобы не записывать low_step инструкции в выходной файл (чтобы обращаться к заданиям только через глобальную цель).
+  
+  Пример выходного файла: [test_seen.p](test_seen.p)
 
 - [tasks_to_questions.py](tasks_to_questions.py) получает список подзадач и соответствующих вопросов. Результаты записывает в выходной json-файл.
 
