@@ -4,7 +4,7 @@
 1. Настроить conda environment: установить все зависимости, перечисленные в [requirements.txt](https://github.com/soyeonm/FILM/blob/public/requirements.txt) для FILM + библиотеку transformers.
 2. [Скачать обученные BERTы](https://drive.google.com/file/d/1KQSpEBPd51x7tpF0rE1PVGCliRhuNhue/view). Поместить модели в папку **models** в рабочей директории.
 3. Скачать [alfred_data](https://drive.google.com/file/d/1m0q7QYmmhSTOOoS62FdxSSXmQl2TY4gj/view?usp=sharing), поместить содержимое в папку **data/alfred_data** в рабочей директории.
-4. Повторить предобработку данных, как сделано в FILM, чтобы получить отдельный json-файл для каждого задания:
+4. Повторить предобработку данных, [как сделано в FILM](https://github.com/soyeonm/FILM#additional-preliminaries-to-use-alfred-scenes), чтобы получить отдельный json-файл для каждого задания:
    
    - Выполните команду
    ```
