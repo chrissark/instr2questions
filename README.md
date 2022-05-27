@@ -44,7 +44,7 @@
   ```
   python end_to_end_outputs.py -sp tests_seen -m models -o tests_seen --no_appended
   ```
-  -sp - часть датасета (tests_seen, tests_unseen, valid_seen и т.д.) \
+  -sp - часть датасета (tests_seen, tests_unseen, val_seen и т.д.) \
   -m - папка с обученными моделями \
   -o - выходной pickled-файл \
   --no_appended - параметр нужен, чтобы не записывать low_step инструкции в выходной файл (чтобы обращаться к заданиям только через глобальную цель).
