@@ -1,9 +1,9 @@
 # instr2questions
 
 ## Подготовка среды
-1. Настроить conda environment: установить все зависимости, перечисленные в requirements.txt для [FILM](https://github.com/soyeonm/FILM/blob/public/requirements.txt) + библиотеку transformers.
+1. Настроить conda environment: установить все зависимости, перечисленные в [requirements.txt](https://github.com/soyeonm/FILM/blob/public/requirements.txt) для FILM + библиотеку transformers.
 2. [Скачать обученные BERTы](https://drive.google.com/file/d/1KQSpEBPd51x7tpF0rE1PVGCliRhuNhue/view). Поместить модели в папку **models** в рабочей директории.
-3. Скачать [alfred_data](https://drive.google.com/file/d/1m0q7QYmmhSTOOoS62FdxSSXmQl2TY4gj/view?usp=sharing), поместить в папку **data/alfred_data** в рабочей директории.
+3. Скачать [alfred_data](https://drive.google.com/file/d/1m0q7QYmmhSTOOoS62FdxSSXmQl2TY4gj/view?usp=sharing), поместить содержимое в папку **data/alfred_data** в рабочей директории.
 4. Повторить предобработку данных, как сделано в FILM, чтобы получить отдельный json-файл для каждого задания:
    
    - Выполните команду
@@ -25,7 +25,7 @@
    ![изображение](https://user-images.githubusercontent.com/64375679/170740281-29d4ec7a-e0ba-4425-9ba3-f3d9099832f8.png)
    Программа завершится с ошибкой, но на это можно не обращать внимания.
    
-   - Выполните команды
+   - Выполните команды, чтобы скопировать файлы в рабочую директорию проекта
    ```
    $ cp -r data/json_2.1.0 $INSTR2QUES_ROOT/json_2.1.0
    $ cp -r data/splits/oct21.json $INSTR2QUES_ROOT/splits/oct21.json
