@@ -22,7 +22,7 @@
    - Выполните команды
    ```
    $ cd $ALFRED_ROOT
-   $ python models/train/train_seq2seq.py --data data/json_2.1.0 --model seq2seq_im_mask --dout exp/model:{model},name:pm_and_subgoals_01 --splits data/splits  /oct21.json --gpu --batch 8 --pm_aux_loss_wt 0.1 --subgoal_aux_loss_wt 0.1 --preprocess
+   $ python models/train/train_seq2seq.py --data data/json_2.1.0 --model seq2seq_im_mask --dout exp/model:{model},name:pm_and_subgoals_01 --splits data/splits/oct21.json --gpu --batch 8 --pm_aux_loss_wt 0.1 --subgoal_aux_loss_wt 0.1 --preprocess
    ```
    Это займёт 5-15 мин. Вывод должен быть таким:
    ![изображение](https://user-images.githubusercontent.com/64375679/170740281-29d4ec7a-e0ba-4425-9ba3-f3d9099832f8.png)
