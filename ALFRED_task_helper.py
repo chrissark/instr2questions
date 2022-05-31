@@ -6,8 +6,8 @@ Created on Sat Mar 27 16:49:38 2021
 @author: soyeonmin
 """
 import pickle
-import constants
 import string
+import constants 
 
 exclude = set(string.punctuation)
 task_type_dict = {2: 'pick_and_place_simple',

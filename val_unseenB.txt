@@ -1,0 +1,821 @@
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Pillow PickupObject <SEP> Sofa PutObject <SEP> Pillow PickupObject <SEP> Sofa PutObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Spatula PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Spatula PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Book PickupObject <SEP> FloorLamp ToggleObjectOn
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> LettuceSliced PickupObject <SEP> Fridge CloseObject <SEP> GarbageCan PutObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+SaltShaker PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Box PickupObject <SEP> FloorLamp ToggleObjectOn
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject <SEP> PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+BaseballBat PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Potato SliceObject <SEP> SinkBasin PutObject <SEP> PotatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> PotatoSliced PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Egg PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Egg PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> CoffeeMachine PutObject
+Potato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Potato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+KeyChain PickupObject <SEP> Box PutObject <SEP> Box PickupObject <SEP> ArmChair PutObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+Pencil PickupObject <SEP> FloorLamp ToggleObjectOn
+Spoon PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Pan PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Pan PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+SoapBar PickupObject <SEP> GarbageCan PutObject <SEP> SoapBar PickupObject <SEP> GarbageCan PutObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Potato SliceObject <SEP> SinkBasin PutObject <SEP> PotatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> PotatoSliced PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+ButterKnife PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+SoapBottle PickupObject <SEP> Toilet PutObject
+KeyChain PickupObject <SEP> Box PutObject <SEP> Box PickupObject <SEP> ArmChair PutObject
+Tomato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Tomato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+BaseballBat PickupObject <SEP> Bed PutObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> LettuceSliced PickupObject <SEP> GarbageCan PutObject
+Mug PickupObject <SEP> Desk PutObject
+CreditCard PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+BaseballBat PickupObject <SEP> FloorLamp ToggleObjectOn
+Pan PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Pan PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Pillow PickupObject <SEP> Sofa PutObject <SEP> Pillow PickupObject <SEP> Sofa PutObject
+Knife PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Knife PickupObject <SEP> CounterTop PutObject
+Spoon PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+KeyChain PickupObject <SEP> Box PutObject <SEP> Box PickupObject <SEP> ArmChair PutObject
+Mug PickupObject <SEP> FloorLamp ToggleObjectOn
+Pillow PickupObject <SEP> Sofa PutObject <SEP> Pillow PickupObject <SEP> Sofa PutObject
+SaltShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+Vase PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> TomatoSliced PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Knife PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Knife PickupObject <SEP> CounterTop PutObject
+KeyChain PickupObject <SEP> Box PutObject <SEP> Box PickupObject <SEP> ArmChair PutObject
+Pencil PickupObject <SEP> Shelf PutObject
+RemoteControl PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> TomatoSliced PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> TomatoSliced PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Pan PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Pan PickupObject <SEP> CounterTop PutObject
+SaltShaker PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+BaseballBat PickupObject <SEP> Bed PutObject
+Book PickupObject <SEP> FloorLamp ToggleObjectOn
+Tomato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Tomato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+TissueBox PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+AlarmClock PickupObject <SEP> FloorLamp ToggleObjectOn
+Bowl PickupObject <SEP> FloorLamp ToggleObjectOn
+Bread PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Bread PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Cup PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Cup PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Cup PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Cup PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Mug PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Mug PickupObject <SEP> CoffeeMachine PutObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> CoffeeMachine PutObject
+BasketBall PickupObject <SEP> FloorLamp ToggleObjectOn
+CellPhone PickupObject <SEP> FloorLamp ToggleObjectOn
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Potato SliceObject <SEP> SinkBasin PutObject <SEP> PotatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> PotatoSliced PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> BreadSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> BreadSliced PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+KeyChain PickupObject <SEP> FloorLamp ToggleObjectOn
+Tomato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Tomato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+CD PickupObject <SEP> FloorLamp ToggleObjectOn
+Statue PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> BreadSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+KeyChain PickupObject <SEP> Box PutObject <SEP> Box PickupObject <SEP> ArmChair PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+KeyChain PickupObject <SEP> FloorLamp ToggleObjectOn
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Newspaper PickupObject <SEP> FloorLamp ToggleObjectOn
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Egg PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> CounterTop PutObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Knife PickupObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Spoon PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+SoapBar PickupObject <SEP> GarbageCan PutObject <SEP> SoapBar PickupObject <SEP> GarbageCan PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Egg PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject <SEP> PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Mug PickupObject <SEP> Desk PutObject
+Pencil PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> Shelf PutObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> LettuceSliced PickupObject <SEP> GarbageCan PutObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Pan PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Pan PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+BaseballBat PickupObject <SEP> Bed PutObject
+Vase PickupObject <SEP> FloorLamp ToggleObjectOn
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> CoffeeMachine PutObject
+ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> BreadSliced PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> TomatoSliced PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> BreadSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Desk PutObject
+Mug PickupObject <SEP> FloorLamp ToggleObjectOn
+Potato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Potato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Vase PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Egg PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+KeyChain PickupObject <SEP> FloorLamp ToggleObjectOn
+Pan PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Pan PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+TissueBox PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> LettuceSliced PickupObject <SEP> Fridge CloseObject <SEP> GarbageCan PutObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> LettuceSliced PickupObject <SEP> Fridge CloseObject <SEP> GarbageCan PutObject
+Vase PickupObject <SEP> FloorLamp ToggleObjectOn
+Spoon PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Bread PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Bread PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+BasketBall PickupObject <SEP> FloorLamp ToggleObjectOn
+Plate PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Plate PickupObject <SEP> CounterTop PutObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> CounterTop PutObject
+Pencil PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> Shelf PutObject
+KeyChain PickupObject <SEP> FloorLamp ToggleObjectOn
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> TomatoSliced PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject <SEP> PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+TissueBox PickupObject <SEP> FloorLamp ToggleObjectOn
+SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Bowl PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+RemoteControl PickupObject <SEP> FloorLamp ToggleObjectOn
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Plunger PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> LettuceSliced PickupObject <SEP> Fridge CloseObject <SEP> GarbageCan PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Pan PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Pan PickupObject <SEP> CounterTop PutObject
+Tomato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Tomato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Bowl PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Bowl PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Newspaper PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject <SEP> PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> CoffeeMachine PutObject
+Spatula PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Spatula PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject <SEP> PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Box PickupObject <SEP> FloorLamp ToggleObjectOn
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> CounterTop PutObject
+Pillow PickupObject <SEP> Sofa PutObject <SEP> Pillow PickupObject <SEP> Sofa PutObject
+Spatula PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Spatula PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+CD PickupObject <SEP> FloorLamp ToggleObjectOn
+CreditCard PickupObject <SEP> FloorLamp ToggleObjectOn
+BaseballBat PickupObject <SEP> Bed PutObject
+Pillow PickupObject <SEP> Sofa PutObject <SEP> Pillow PickupObject <SEP> Sofa PutObject
+Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Egg PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Glassbottle PickupObject <SEP> Plate PutObject <SEP> Plate PickupObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> TomatoSliced PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> CoffeeMachine PutObject
+Pencil PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> Shelf PutObject
+RemoteControl PickupObject <SEP> FloorLamp ToggleObjectOn
+Statue PickupObject <SEP> FloorLamp ToggleObjectOn
+CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+SoapBar PickupObject <SEP> GarbageCan PutObject <SEP> SoapBar PickupObject <SEP> GarbageCan PutObject
+Bowl PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Bowl PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+Cup PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Cup PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+SaltShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Pan PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Pan PickupObject <SEP> CounterTop PutObject
+AlarmClock PickupObject <SEP> FloorLamp ToggleObjectOn
+Vase PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Cup PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Cup PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Pan PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Pan PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Egg PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+CreditCard PickupObject <SEP> FloorLamp ToggleObjectOn
+KeyChain PickupObject <SEP> FloorLamp ToggleObjectOn
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> BreadSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Knife PickupObject <SEP> CounterTop PutObject
+TissueBox PickupObject <SEP> FloorLamp ToggleObjectOn
+Tomato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Tomato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Book PickupObject <SEP> FloorLamp ToggleObjectOn
+Spatula PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Spatula PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+Pan PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Pan PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Potato SliceObject <SEP> SinkBasin PutObject <SEP> PotatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> PotatoSliced PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Newspaper PickupObject <SEP> FloorLamp ToggleObjectOn
+Plate PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Plate PickupObject <SEP> CounterTop PutObject
+Vase PickupObject <SEP> FloorLamp ToggleObjectOn
+Vase PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Egg PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Egg PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Pan PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Pan PickupObject <SEP> CounterTop PutObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Spatula PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Spatula PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Knife PickupObject <SEP> CounterTop PutObject
+Glassbottle PickupObject <SEP> Plate PutObject <SEP> Plate PickupObject <SEP> SinkBasin PutObject
+Bowl PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Bowl PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+ButterKnife PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Bowl PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Bowl PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Statue PickupObject <SEP> FloorLamp ToggleObjectOn
+Potato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Potato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> BreadSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+SoapBottle PickupObject <SEP> Toilet PutObject
+Glassbottle PickupObject <SEP> Plate PutObject <SEP> Plate PickupObject <SEP> SinkBasin PutObject
+CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> CoffeeMachine PutObject
+BasketBall PickupObject <SEP> FloorLamp ToggleObjectOn
+Mug PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Mug PickupObject <SEP> CoffeeMachine PutObject
+SaltShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+Mug PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> LettuceSliced PickupObject <SEP> Fridge CloseObject <SEP> GarbageCan PutObject
+Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Egg PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Tomato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Tomato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Glassbottle PickupObject <SEP> Plate PutObject <SEP> Plate PickupObject <SEP> SinkBasin PutObject
+Watch PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Vase PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> BreadSliced PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Pillow PickupObject <SEP> Sofa PutObject <SEP> Pillow PickupObject <SEP> Sofa PutObject
+Plunger PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Book PickupObject <SEP> FloorLamp ToggleObjectOn
+Potato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Potato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> LettuceSliced PickupObject <SEP> GarbageCan PutObject
+Glassbottle PickupObject <SEP> Plate PutObject <SEP> Plate PickupObject <SEP> SinkBasin PutObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+BaseballBat PickupObject <SEP> FloorLamp ToggleObjectOn
+BaseballBat PickupObject <SEP> FloorLamp ToggleObjectOn
+Vase PickupObject <SEP> FloorLamp ToggleObjectOn
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> LettuceSliced PickupObject <SEP> GarbageCan PutObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Egg PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> CounterTop PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> TomatoSliced PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Bowl PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> BreadSliced PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Statue PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> LettuceSliced PickupObject <SEP> Fridge CloseObject <SEP> GarbageCan PutObject
+Bowl PickupObject <SEP> FloorLamp ToggleObjectOn
+Egg PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Egg PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+SaltShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Pencil PickupObject <SEP> FloorLamp ToggleObjectOn
+Tomato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Tomato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Mug PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Mug PickupObject <SEP> CoffeeMachine PutObject
+SaltShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> CounterTop PutObject
+Glassbottle PickupObject <SEP> Plate PutObject <SEP> Plate PickupObject <SEP> SinkBasin PutObject
+CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+KeyChain PickupObject <SEP> Box PutObject <SEP> Box PickupObject <SEP> ArmChair PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject <SEP> PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+SoapBottle PickupObject <SEP> Toilet PutObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> TomatoSliced PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Bowl PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Bowl PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> CounterTop PutObject
+Cup PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Cup PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Pencil PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> Shelf PutObject
+Statue PickupObject <SEP> FloorLamp ToggleObjectOn
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> CounterTop PutObject
+Pan PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Pan PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> TomatoSliced PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+Pencil PickupObject <SEP> Shelf PutObject
+Plate PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Plate PickupObject <SEP> CounterTop PutObject
+SoapBottle PickupObject <SEP> Toilet PutObject
+Pencil PickupObject <SEP> FloorLamp ToggleObjectOn
+CellPhone PickupObject <SEP> FloorLamp ToggleObjectOn
+Mug PickupObject <SEP> FloorLamp ToggleObjectOn
+Book PickupObject <SEP> FloorLamp ToggleObjectOn
+Egg PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Egg PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Pillow PickupObject <SEP> Sofa PutObject <SEP> Pillow PickupObject <SEP> Sofa PutObject
+Newspaper PickupObject <SEP> FloorLamp ToggleObjectOn
+Watch PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Spatula PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Spatula PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+SoapBottle PickupObject <SEP> Toilet PutObject
+Watch PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Pencil PickupObject <SEP> FloorLamp ToggleObjectOn
+Statue PickupObject <SEP> FloorLamp ToggleObjectOn
+Vase PickupObject <SEP> FloorLamp ToggleObjectOn
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> CounterTop PutObject
+ButterKnife PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Newspaper PickupObject <SEP> FloorLamp ToggleObjectOn
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+CreditCard PickupObject <SEP> FloorLamp ToggleObjectOn
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Bread PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Bread PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+SoapBar PickupObject <SEP> GarbageCan PutObject <SEP> SoapBar PickupObject <SEP> GarbageCan PutObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Desk PutObject
+CD PickupObject <SEP> FloorLamp ToggleObjectOn
+Pillow PickupObject <SEP> Sofa PutObject <SEP> Pillow PickupObject <SEP> Sofa PutObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Bread PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Bread PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Pan PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Pan PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+CellPhone PickupObject <SEP> FloorLamp ToggleObjectOn
+Bowl PickupObject <SEP> FloorLamp ToggleObjectOn
+Tomato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Tomato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+Potato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Potato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Tomato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Tomato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+ButterKnife PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+CreditCard PickupObject <SEP> FloorLamp ToggleObjectOn
+Box PickupObject <SEP> FloorLamp ToggleObjectOn
+Pencil PickupObject <SEP> Shelf PutObject
+Egg PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> CounterTop PutObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+Plunger PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+SaltShaker PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Plunger PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Potato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Potato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+BaseballBat PickupObject <SEP> FloorLamp ToggleObjectOn
+Potato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Potato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+RemoteControl PickupObject <SEP> FloorLamp ToggleObjectOn
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Mug PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Mug PickupObject <SEP> CoffeeMachine PutObject
+CD PickupObject <SEP> FloorLamp ToggleObjectOn
+Plunger PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+ButterKnife PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Tomato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Tomato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+BaseballBat PickupObject <SEP> FloorLamp ToggleObjectOn
+Vase PickupObject <SEP> FloorLamp ToggleObjectOn
+ButterKnife PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+CellPhone PickupObject <SEP> FloorLamp ToggleObjectOn
+CD PickupObject <SEP> FloorLamp ToggleObjectOn
+AlarmClock PickupObject <SEP> FloorLamp ToggleObjectOn
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Statue PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Potato SliceObject <SEP> SinkBasin PutObject <SEP> PotatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> PotatoSliced PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Statue PickupObject <SEP> FloorLamp ToggleObjectOn
+Pencil PickupObject <SEP> FloorLamp ToggleObjectOn
+Mug PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Mug PickupObject <SEP> CoffeeMachine PutObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+SaltShaker PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> LettuceSliced PickupObject <SEP> GarbageCan PutObject
+Pencil PickupObject <SEP> Shelf PutObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Bowl PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Bowl PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+BaseballBat PickupObject <SEP> Bed PutObject
+SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+BasketBall PickupObject <SEP> FloorLamp ToggleObjectOn
+Tomato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Tomato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+Spoon PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Pan PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Pan PickupObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Desk PutObject
+Bread PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Bread PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Potato SliceObject <SEP> SinkBasin PutObject <SEP> PotatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> PotatoSliced PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Plunger PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+CD PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> BreadSliced PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Knife PickupObject <SEP> Potato SliceObject <SEP> SinkBasin PutObject <SEP> PotatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> PotatoSliced PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Vase PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Bowl PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Bowl PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+Box PickupObject <SEP> FloorLamp ToggleObjectOn
+SoapBottle PickupObject <SEP> Toilet PutObject
+Potato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Potato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+AlarmClock PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+SoapBottle PickupObject <SEP> Toilet PutObject
+Pencil PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> Shelf PutObject
+Newspaper PickupObject <SEP> FloorLamp ToggleObjectOn
+Egg PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> CounterTop PutObject
+BasketBall PickupObject <SEP> FloorLamp ToggleObjectOn
+Glassbottle PickupObject <SEP> Plate PutObject <SEP> Plate PickupObject <SEP> SinkBasin PutObject
+Cup PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Cup PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+AlarmClock PickupObject <SEP> FloorLamp ToggleObjectOn
+SaltShaker PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+SoapBottle PickupObject <SEP> Toilet PutObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Box PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+RemoteControl PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+BasketBall PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Potato SliceObject <SEP> SinkBasin PutObject <SEP> PotatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> PotatoSliced PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Watch PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Bowl PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Bowl PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+CD PickupObject <SEP> FloorLamp ToggleObjectOn
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+BaseballBat PickupObject <SEP> Bed PutObject
+Mug PickupObject <SEP> FloorLamp ToggleObjectOn
+TissueBox PickupObject <SEP> FloorLamp ToggleObjectOn
+CellPhone PickupObject <SEP> FloorLamp ToggleObjectOn
+Bread PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Bread PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Knife PickupObject <SEP> CounterTop PutObject
+Plate PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Plate PickupObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> CoffeeMachine PutObject
+KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Mug PickupObject <SEP> FloorLamp ToggleObjectOn
+ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Pencil PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Potato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Potato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+SoapBar PickupObject <SEP> GarbageCan PutObject <SEP> SoapBar PickupObject <SEP> GarbageCan PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> CoffeeMachine PutObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+BasketBall PickupObject <SEP> FloorLamp ToggleObjectOn
+Pencil PickupObject <SEP> Shelf PutObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> CoffeeMachine PutObject
+Box PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Pencil PickupObject <SEP> Shelf PutObject
+SaltShaker PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> CoffeeMachine PutObject
+Book PickupObject <SEP> FloorLamp ToggleObjectOn
+TissueBox PickupObject <SEP> FloorLamp ToggleObjectOn
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Mug PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Plunger PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+Plate PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Plate PickupObject <SEP> CounterTop PutObject
+SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Vase PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Watch PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> BreadSliced PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Mug PickupObject <SEP> Desk PutObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+CellPhone PickupObject <SEP> FloorLamp ToggleObjectOn
+SoapBottle PickupObject <SEP> Toilet PutObject
+SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Glassbottle PickupObject <SEP> Plate PutObject <SEP> Plate PickupObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> LettuceSliced PickupObject <SEP> Fridge CloseObject <SEP> GarbageCan PutObject
+Cup PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Cup PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+BasketBall PickupObject <SEP> FloorLamp ToggleObjectOn
+Spoon PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Egg PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> CounterTop PutObject
+BaseballBat PickupObject <SEP> Bed PutObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Spoon PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Egg PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> BreadSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> LettuceSliced PickupObject <SEP> Fridge CloseObject <SEP> GarbageCan PutObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> TomatoSliced PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Egg PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Bowl PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+CreditCard PickupObject <SEP> FloorLamp ToggleObjectOn
+SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+CellPhone PickupObject <SEP> FloorLamp ToggleObjectOn
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+Egg PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+RemoteControl PickupObject <SEP> FloorLamp ToggleObjectOn
+Pencil PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+Egg PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Egg PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Mug PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Mug PickupObject <SEP> CoffeeMachine PutObject
+CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Potato SliceObject <SEP> SinkBasin PutObject <SEP> PotatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> PotatoSliced PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+CellPhone PickupObject <SEP> FloorLamp ToggleObjectOn
+SoapBar PickupObject <SEP> GarbageCan PutObject <SEP> SoapBar PickupObject <SEP> GarbageCan PutObject
+KeyChain PickupObject <SEP> FloorLamp ToggleObjectOn
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> CounterTop PutObject
+Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Egg PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+BasketBall PickupObject <SEP> FloorLamp ToggleObjectOn
+Book PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> LettuceSliced PickupObject <SEP> GarbageCan PutObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Vase PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Tomato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Tomato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> CoffeeMachine PutObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+Pencil PickupObject <SEP> FloorLamp ToggleObjectOn
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Egg PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Egg PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Vase PickupObject <SEP> FloorLamp ToggleObjectOn
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Box PickupObject <SEP> FloorLamp ToggleObjectOn
+Watch PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+KeyChain PickupObject <SEP> FloorLamp ToggleObjectOn
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+SoapBar PickupObject <SEP> GarbageCan PutObject <SEP> SoapBar PickupObject <SEP> GarbageCan PutObject
+KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Plate PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Plate PickupObject <SEP> CounterTop PutObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Potato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Potato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Mug PickupObject <SEP> Desk PutObject
+Potato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Potato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Pencil PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> Shelf PutObject
+Potato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Potato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+BaseballBat PickupObject <SEP> Bed PutObject
+ButterKnife PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> CoffeeMachine PutObject
+Mug PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Mug PickupObject <SEP> CoffeeMachine PutObject
+Pan PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Pan PickupObject <SEP> CounterTop PutObject
+Newspaper PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> LettuceSliced PickupObject <SEP> GarbageCan PutObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> LettuceSliced PickupObject <SEP> GarbageCan PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+Plate PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Plate PickupObject <SEP> CounterTop PutObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject <SEP> PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+RemoteControl PickupObject <SEP> FloorLamp ToggleObjectOn
+SoapBar PickupObject <SEP> GarbageCan PutObject <SEP> SoapBar PickupObject <SEP> GarbageCan PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> BreadSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> TomatoSliced PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+Pan PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Pan PickupObject <SEP> CounterTop PutObject
+Pencil PickupObject <SEP> Shelf PutObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> BreadSliced PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Box PickupObject <SEP> FloorLamp ToggleObjectOn
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Bowl PickupObject <SEP> FloorLamp ToggleObjectOn
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Potato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Potato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> CoffeeMachine PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+Pan PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Pan PickupObject <SEP> CounterTop PutObject
+ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Book PickupObject <SEP> FloorLamp ToggleObjectOn
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject <SEP> PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+TissueBox PickupObject <SEP> FloorLamp ToggleObjectOn
+Pencil PickupObject <SEP> Shelf PutObject
+AlarmClock PickupObject <SEP> FloorLamp ToggleObjectOn
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Mug PickupObject <SEP> Desk PutObject
+Bread PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Bread PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Bread PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Bread PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Cup PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Cup PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Egg PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Tomato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Tomato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> CoffeeMachine PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Glassbottle PickupObject <SEP> Plate PutObject <SEP> Plate PickupObject <SEP> SinkBasin PutObject
+AlarmClock PickupObject <SEP> FloorLamp ToggleObjectOn
+RemoteControl PickupObject <SEP> FloorLamp ToggleObjectOn
+Box PickupObject <SEP> FloorLamp ToggleObjectOn
+Mug PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Mug PickupObject <SEP> CoffeeMachine PutObject
+AlarmClock PickupObject <SEP> FloorLamp ToggleObjectOn
+CD PickupObject <SEP> FloorLamp ToggleObjectOn
+RemoteControl PickupObject <SEP> FloorLamp ToggleObjectOn
+Newspaper PickupObject <SEP> FloorLamp ToggleObjectOn
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+Tomato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Tomato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+KeyChain PickupObject <SEP> Box PutObject <SEP> Box PickupObject <SEP> ArmChair PutObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Pan PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Pan PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> CoffeeMachine PutObject
+Spoon PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Potato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Potato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+BaseballBat PickupObject <SEP> FloorLamp ToggleObjectOn
+Box PickupObject <SEP> FloorLamp ToggleObjectOn
+ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Spoon PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> BreadSliced PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Egg PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> TomatoSliced PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+SaltShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Pencil PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> Shelf PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+KeyChain PickupObject <SEP> Box PutObject <SEP> Box PickupObject <SEP> ArmChair PutObject
+Statue PickupObject <SEP> FloorLamp ToggleObjectOn
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Mug PickupObject <SEP> Fridge CloseObject <SEP> CoffeeMachine PutObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> TomatoSliced PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Egg PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> CounterTop PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+Egg PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> CounterTop PutObject
+Egg PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Egg PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Egg PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+SaltShaker PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+BaseballBat PickupObject <SEP> Bed PutObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> TomatoSliced PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+SaltShaker PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Mug PickupObject <SEP> Desk PutObject
+ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Bread PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Bread PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> CoffeeMachine PutObject
+Book PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+Plunger PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Vase PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Plunger PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+ButterKnife PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Vase PickupObject <SEP> FloorLamp ToggleObjectOn
+ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject <SEP> ToiletPaper PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Bowl PickupObject <SEP> FloorLamp ToggleObjectOn
+Tomato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Tomato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Knife PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Knife PickupObject <SEP> CounterTop PutObject
+TissueBox PickupObject <SEP> FloorLamp ToggleObjectOn
+SoapBottle PickupObject <SEP> Toilet PutObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+CreditCard PickupObject <SEP> FloorLamp ToggleObjectOn
+Potato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Potato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+ButterKnife PickupObject <SEP> Pan PutObject <SEP> Pan PickupObject <SEP> SinkBasin PutObject
+Mug PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+Plate PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Plate PickupObject <SEP> CounterTop PutObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+KeyChain PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> TomatoSliced PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Newspaper PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject <SEP> AppleSliced PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Knife PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Knife PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Knife PickupObject <SEP> CounterTop PutObject
+Vase PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> BreadSliced PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> CoffeeMachine PutObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+Tomato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Tomato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Egg PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+AlarmClock PickupObject <SEP> FloorLamp ToggleObjectOn
+BaseballBat PickupObject <SEP> FloorLamp ToggleObjectOn
+KeyChain PickupObject <SEP> Box PutObject <SEP> Box PickupObject <SEP> ArmChair PutObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+CD PickupObject <SEP> FloorLamp ToggleObjectOn
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+SaltShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Potato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Potato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+BaseballBat PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> LettuceSliced PickupObject <SEP> GarbageCan PutObject
+Egg PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> TomatoSliced PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+KeyChain PickupObject <SEP> FloorLamp ToggleObjectOn
+Laptop PickupObject <SEP> FloorLamp ToggleObjectOn
+SaltShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+CreditCard PickupObject <SEP> FloorLamp ToggleObjectOn
+Watch PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+CellPhone PickupObject <SEP> FloorLamp ToggleObjectOn
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> TomatoSliced PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Spatula PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Spatula PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> BreadSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Egg PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Bowl PickupObject <SEP> FloorLamp ToggleObjectOn
+SaltShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Pan PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Pan PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Mug PickupObject <SEP> FloorLamp ToggleObjectOn
+Potato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Potato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Tomato PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Tomato PickupObject <SEP> Fridge CloseObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Pencil PickupObject <SEP> FloorLamp ToggleObjectOn
+Potato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Potato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Watch PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Pencil PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> Shelf PutObject
+Cloth PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Cloth PickupObject <SEP> CounterTop PutObject
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
+SoapBar PickupObject <SEP> GarbageCan PutObject <SEP> SoapBar PickupObject <SEP> GarbageCan PutObject
+Tomato PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Tomato PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+Lettuce PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Lettuce PickupObject <SEP> Fridge CloseObject <SEP> CounterTop PutObject
+Egg PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Egg PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> KeyChain PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> CounterTop PutObject
+Plate PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Plate PickupObject <SEP> CounterTop PutObject
+SoapBar PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> SoapBar PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Egg PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Egg PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+Egg PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject
+Mug PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Mug PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Watch PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject <SEP> PepperShaker PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject <SEP> CD PickupObject <SEP> Safe OpenObject <SEP> Safe PutObject <SEP> Safe CloseObject
+Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Egg PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Pillow PickupObject <SEP> Sofa PutObject <SEP> Pillow PickupObject <SEP> Sofa PutObject
+Mug PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Mug PickupObject <SEP> CoffeeMachine PutObject
+Pencil PickupObject <SEP> Bowl PutObject <SEP> Bowl PickupObject <SEP> Shelf PutObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Egg PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> Egg PickupObject <SEP> Fridge CloseObject <SEP> SinkBasin PutObject
+ButterKnife PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Knife PickupObject <SEP> Bread SliceObject <SEP> SinkBasin PutObject <SEP> BreadSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> BreadSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Tomato SliceObject <SEP> SinkBasin PutObject <SEP> TomatoSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> TomatoSliced PickupObject <SEP> Microwave CloseObject <SEP> SinkBasin PutObject
+Spatula PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Spatula PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Cup PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Cup PickupObject <SEP> Microwave CloseObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+SaltShaker PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Pencil PickupObject <SEP> Shelf PutObject
+Spatula PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Spatula PickupObject <SEP> Drawer OpenObject <SEP> Drawer PutObject <SEP> Drawer CloseObject
+Fork PickupObject <SEP> Cup PutObject <SEP> Cup PickupObject <SEP> SinkBasin PutObject
+Egg PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Egg PickupObject <SEP> Microwave CloseObject <SEP> GarbageCan PutObject
+TissueBox PickupObject <SEP> FloorLamp ToggleObjectOn
+Bowl PickupObject <SEP> SinkBasin PutObject <SEP> Faucet ToggleObjectOn <SEP> Faucet ToggleObjectOff <SEP> Bowl PickupObject <SEP> Cabinet OpenObject <SEP> Cabinet PutObject <SEP> Cabinet CloseObject
+Knife PickupObject <SEP> Apple SliceObject <SEP> SinkBasin PutObject <SEP> AppleSliced PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> AppleSliced PickupObject <SEP> Microwave CloseObject <SEP> CounterTop PutObject
+Spoon PickupObject <SEP> Mug PutObject <SEP> Mug PickupObject <SEP> CounterTop PutObject
+Knife PickupObject <SEP> Lettuce SliceObject <SEP> SinkBasin PutObject <SEP> LettuceSliced PickupObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject <SEP> Fridge OpenObject <SEP> LettuceSliced PickupObject <SEP> Fridge CloseObject <SEP> GarbageCan PutObject
+Box PickupObject <SEP> FloorLamp ToggleObjectOn
+CreditCard PickupObject <SEP> FloorLamp ToggleObjectOn
+Apple PickupObject <SEP> Microwave OpenObject <SEP> Microwave PutObject <SEP> Microwave CloseObject <SEP> Microwave ToggleObjectOn <SEP> Microwave ToggleObjectOff <SEP> Microwave OpenObject <SEP> Apple PickupObject <SEP> Microwave CloseObject <SEP> Fridge OpenObject <SEP> Fridge PutObject <SEP> Fridge CloseObject
