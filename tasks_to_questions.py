@@ -61,21 +61,21 @@ def generate_questions_from_task(task, prev_obj=None):
     questions = []
     
     if action == 'PickupObject':
-        questions.append(f'Is the {obj} close ?')
-        questions.append(f'Is the {obj} being held ?')
+        questions.append(f'Is the {obj} close enough to be picked up?')
+        questions.append(f'Is the {obj} being held?')
         
     elif action == 'PutObject':
         if prev_obj:
-           questions.append(f'Is the {prev_obj} {prepositions[obj]} the {obj} ?')
+           questions.append(f'Is the {prev_obj} {prepositions[obj]} the {obj}?')
         
     elif action in ('OpenObject', 'CloseObject'):
-        questions.append(f'Is the {obj} opened ?')
+        questions.append(f'Is the {obj} opened?')
         
     elif action in ('ToggleObjectOn', 'ToggleObjectOff'):
-        questions.append(f'Is the {obj} on ?')
+        questions.append(f'Is the {obj} on?')
     
     elif action == 'SliceObject':
-        questions.append(f'Is the {obj} sliced ?')
+        questions.append(f'Is the {obj} sliced?')
         
     return questions
 
@@ -90,7 +90,7 @@ def generate_questions_from_list_of_actions(list_of_actions):
         if 'sliced' in obj:
             obj = 'sliced ' + obj.replace('sliced', '')
         if obj != prev_obj:
-            output.append(f'Is the {obj} visible ?')
+            output.append(f'Is the {obj} visible?')
         if action == 'PickupObject':
            picked_obj = obj
         if action == 'PutObject':
